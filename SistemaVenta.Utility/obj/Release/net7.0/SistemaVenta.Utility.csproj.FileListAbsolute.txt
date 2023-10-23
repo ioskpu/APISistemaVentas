@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.Utility.deps.json
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.Utility.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.Utility.pdb
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.DTO.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.Model.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.DTO.pdb
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\bin\Release\net7.0\SistemaVenta.Model.pdb
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.AssemblyInfo.cs
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.csproj.CopyComplete
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\obj\Release\net7.0\refint\SistemaVenta.Utility.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\obj\Release\net7.0\SistemaVenta.Utility.pdb
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Utility\obj\Release\net7.0\ref\SistemaVenta.Utility.dll

@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\bin\Release\net7.0\SistemaVenta.Model.deps.json
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\bin\Release\net7.0\SistemaVenta.Model.runtimeconfig.json
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\bin\Release\net7.0\SistemaVenta.Model.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\bin\Release\net7.0\SistemaVenta.Model.pdb
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\obj\Release\net7.0\refint\SistemaVenta.Model.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.pdb
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\obj\Release\net7.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.Model\obj\Release\net7.0\ref\SistemaVenta.Model.dll

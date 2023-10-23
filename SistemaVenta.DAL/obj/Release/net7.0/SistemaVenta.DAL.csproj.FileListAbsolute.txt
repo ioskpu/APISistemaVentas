@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\bin\Release\net7.0\SistemaVenta.DAL.deps.json
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\bin\Release\net7.0\SistemaVenta.DAL.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\bin\Release\net7.0\SistemaVenta.DAL.pdb
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\bin\Release\net7.0\SistemaVenta.Model.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\bin\Release\net7.0\SistemaVenta.Model.pdb
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\obj\Release\net7.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\obj\Release\net7.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\obj\Release\net7.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\obj\Release\net7.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\obj\Release\net7.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\obj\Release\net7.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\obj\Release\net7.0\SistemaVenta.DAL.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\obj\Release\net7.0\refint\SistemaVenta.DAL.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\obj\Release\net7.0\SistemaVenta.DAL.pdb
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DAL\obj\Release\net7.0\ref\SistemaVenta.DAL.dll

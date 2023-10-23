@@ -1,0 +1,63 @@
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.BLL.deps.json
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.BLL.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.BLL.pdb
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DAL.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DTO.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Model.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Utility.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DAL.pdb
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DTO.pdb
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Model.pdb
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Utility.pdb
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.AssemblyInfo.cs
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.csproj.CopyComplete
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/refint/SistemaVenta.BLL.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.pdb
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/ref/SistemaVenta.BLL.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.BLL.deps.json
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.BLL.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.BLL.pdb
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DAL.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DTO.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Model.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Utility.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DAL.pdb
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DTO.pdb
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Model.pdb
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Utility.pdb
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.AssemblyInfo.cs
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.csproj.CopyComplete
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/refint/SistemaVenta.BLL.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.pdb
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/ref/SistemaVenta.BLL.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.BLL.deps.json
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.BLL.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.BLL.pdb
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DAL.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DTO.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Model.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Utility.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DAL.pdb
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.DTO.pdb
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Model.pdb
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/bin/Debug/net7.0/SistemaVenta.Utility.pdb
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.csproj.AssemblyReference.cache
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.AssemblyInfoInputs.cache
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.AssemblyInfo.cs
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.csproj.CopyComplete
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/refint/SistemaVenta.BLL.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/SistemaVenta.BLL.pdb
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaaVenta.BLL/obj/Debug/net7.0/ref/SistemaVenta.BLL.dll

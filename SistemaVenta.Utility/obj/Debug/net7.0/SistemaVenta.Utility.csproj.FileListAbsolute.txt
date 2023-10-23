@@ -1,0 +1,51 @@
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Utility.deps.json
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Utility.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Utility.pdb
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.DTO.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Model.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.DTO.pdb
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Model.pdb
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.AssemblyInfo.cs
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.csproj.CopyComplete
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/refint/SistemaVenta.Utility.dll
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.pdb
+C:/Users/PC/Desktop/github/Srcold/core/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/ref/SistemaVenta.Utility.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Utility.deps.json
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Utility.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Utility.pdb
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.DTO.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Model.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.DTO.pdb
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Model.pdb
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.csproj.AssemblyReference.cache
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.AssemblyInfoInputs.cache
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.AssemblyInfo.cs
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.csproj.CopyComplete
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/refint/SistemaVenta.Utility.dll
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.pdb
+C:/Users/PC/Desktop/Des/github/Srcold/core/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/ref/SistemaVenta.Utility.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Utility.deps.json
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Utility.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Utility.pdb
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.DTO.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Model.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.DTO.pdb
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/bin/Debug/net7.0/SistemaVenta.Model.pdb
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.csproj.AssemblyReference.cache
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.GeneratedMSBuildEditorConfig.editorconfig
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.AssemblyInfoInputs.cache
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.AssemblyInfo.cs
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.csproj.CoreCompileInputs.cache
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.csproj.CopyComplete
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/refint/SistemaVenta.Utility.dll
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/SistemaVenta.Utility.pdb
+/home/ioskpu/Documentos/Angular/Curso Angular14 net7 sistema ventas/Sistema-de-venta/Sistema-de-venta/APISistemadeventa/SistemaVenta.Utility/obj/Debug/net7.0/ref/SistemaVenta.Utility.dll

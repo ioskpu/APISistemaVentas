@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kqNemsqSJBbD8oQw/2CH+GTTnbd7EFuAOI/lJSJIHHY=",
+  "Source": "SistemaVentaa.API",
+  "BasePath": "_content/SistemaVentaa.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

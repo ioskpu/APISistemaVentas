@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.deps.json
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\bin\Release\net7.0\SistemaVenta.DTO.pdb
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.AssemblyInfo.cs
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\obj\Release\net7.0\refint\SistemaVenta.DTO.dll
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\obj\Release\net7.0\SistemaVenta.DTO.pdb
+C:\Users\PC\Desktop\Des\github\Srcold\core\Sistema-de-venta\APISistemadeventa\SistemaVenta.DTO\obj\Release\net7.0\ref\SistemaVenta.DTO.dll
