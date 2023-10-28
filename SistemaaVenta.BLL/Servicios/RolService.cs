@@ -15,10 +15,10 @@ namespace SistemaVenta.BLL.Servicios
 {
     public class RolService : IRolService
     {
-        private readonly IGenericRepository<Rol> _rolRepositorio;
+        private readonly IGenericRepository<Rols> _rolRepositorio;
         private readonly IMapper _mapper;
 
-        public RolService(IGenericRepository<Rol> rolRepositorio, IMapper mapper)
+        public RolService(IGenericRepository<Rols> rolRepositorio, IMapper mapper)
         {
             _rolRepositorio = rolRepositorio;
             _mapper = mapper;

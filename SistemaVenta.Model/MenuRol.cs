@@ -13,5 +13,5 @@ public partial class MenuRol
 
     public virtual Menu? IdMenuNavigation { get; set; }
 
-    public virtual Rol? IdRolNavigation { get; set; }
+    public virtual Rols? IdRolNavigation { get; set; }
 }

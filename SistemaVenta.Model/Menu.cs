@@ -13,5 +13,5 @@ public partial class Menu
 
     public string? Url { get; set; }
 
-    public virtual ICollection<MenuRol> MenuRols { get; } = new List<MenuRol>();
+    public virtual ICollection<MenuRol> MenuRol { get; } = new List<MenuRol>();
 }

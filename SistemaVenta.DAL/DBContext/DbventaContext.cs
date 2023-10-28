@@ -22,15 +22,15 @@ public partial class DbventaContext : DbContext
 
     public virtual DbSet<Menu> Menus { get; set; }
 
-    public virtual DbSet<MenuRol> MenuRols { get; set; }
+    public virtual DbSet<MenuRol> MenuRol { get; set; }
 
     public virtual DbSet<NumeroDocumento> NumeroDocumentos { get; set; }
 
-    public virtual DbSet<Producto> Productos { get; set; }
+    public virtual DbSet<Producto> Producto { get; set; }
 
-    public virtual DbSet<Rol> Rols { get; set; }
+    public virtual DbSet<Rols> Rols { get; set; }
 
-    public virtual DbSet<Usuario> Usuarios { get; set; }
+    public virtual DbSet<Usuario> Usuario { get; set; }
 
     public virtual DbSet<Venta> Venta { get; set; }
 
@@ -112,11 +112,11 @@ public partial class DbventaContext : DbContext
             entity.Property(e => e.IdMenu).HasColumnName("idMenu");
             entity.Property(e => e.IdRol).HasColumnName("idRol");
 
-            entity.HasOne(d => d.IdMenuNavigation).WithMany(p => p.MenuRols)
+            entity.HasOne(d => d.IdMenuNavigation).WithMany(p => p.MenuRol)
                 .HasForeignKey(d => d.IdMenu)
                 .HasConstraintName("FK__MenuRol__idMenu__29572725");
 
-            entity.HasOne(d => d.IdRolNavigation).WithMany(p => p.MenuRols)
+            entity.HasOne(d => d.IdRolNavigation).WithMany(p => p.MenuRol)
                 .HasForeignKey(d => d.IdRol)
                 .HasConstraintName("FK__MenuRol__idRol__2A4B4B5E");
         });
@@ -132,7 +132,7 @@ public partial class DbventaContext : DbContext
                 .HasDefaultValueSql("(getdate())")
                 .HasColumnType("datetime")
                 .HasColumnName("fechaRegistro");
-            entity.Property(e => e.UltimoNumero).HasColumnName("ultimo_Numero");
+            entity.Property(e => e.UltimoNumero).HasColumnName("ultimo_numero");
         });
 
         modelBuilder.Entity<Producto>(entity =>
@@ -164,11 +164,11 @@ public partial class DbventaContext : DbContext
                 .HasConstraintName("FK__Producto__idCate__35BCFE0A");
         });
 
-        modelBuilder.Entity<Rol>(entity =>
+        modelBuilder.Entity<Rols>(entity =>
         {
             entity.HasKey(e => e.IdRol).HasName("PK__Rol__3C872F76E6BBC482");
 
-            entity.ToTable("Rol");
+            entity.ToTable("Rols");
 
             entity.Property(e => e.IdRol).HasColumnName("idRol");
             entity.Property(e => e.FechaRegistro)
@@ -209,7 +209,7 @@ public partial class DbventaContext : DbContext
                 .IsUnicode(false)
                 .HasColumnName("nombreCompleto");
 
-            entity.HasOne(d => d.IdRolNavigation).WithMany(p => p.Usuarios)
+            entity.HasOne(d => d.IdRolNavigation).WithMany(p => p.Usuario)
                 .HasForeignKey(d => d.IdRol)
                 .HasConstraintName("FK__Usuario__idRol__2D27B809");
         });

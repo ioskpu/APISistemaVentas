@@ -19,5 +19,5 @@ public partial class Usuario
 
     public DateTime? FechaRegistro { get; set; }
 
-    public virtual Rol? IdRolNavigation { get; set; }
+    public virtual Rols? IdRolNavigation { get; set; }
 }

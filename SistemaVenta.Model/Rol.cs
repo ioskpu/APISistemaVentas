@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace SistemaVenta.Model;
 
-public partial class Rol
+public partial class Rols
 {
     public int IdRol { get; set; }
 
@@ -11,7 +11,7 @@ public partial class Rol
 
     public DateTime? FechaRegistro { get; set; }
 
-    public virtual ICollection<MenuRol> MenuRols { get; } = new List<MenuRol>();
+    public virtual ICollection<MenuRol> MenuRol { get; } = new List<MenuRol>();
 
-    public virtual ICollection<Usuario> Usuarios { get; } = new List<Usuario>();
+    public virtual ICollection<Usuario> Usuario { get; } = new List<Usuario>();
 }
